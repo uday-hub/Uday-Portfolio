@@ -280,7 +280,7 @@ h1 {
 
 .main {
   padding-top: 1.5rem;
-  width: auto;
+  width: 100%;
   max-width: 1400px;
   margin: auto;
   display: flex;
