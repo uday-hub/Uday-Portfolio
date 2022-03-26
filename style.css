@@ -387,6 +387,7 @@ h1 {
 .ccard {
   border-radius: 10px;
   width: 25%;
+  height:60vh;
   display: flex;
   flex-direction: column;
   align-items: center;
